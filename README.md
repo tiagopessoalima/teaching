@@ -1,6 +1,4 @@
-# Teaching Repository
-
-## Current courses
+# Current courses
 
 **1. Algorithms**
 - Introduction to algorithms
@@ -26,7 +24,7 @@
 1. **Database System**
 2. **Object-Oriented Programming**
 
-## How to Use
+# How to Use
 Each folder contains structured materials for the respective course.
 You'll find lecture slides, code examples, exercises, and additional reading resources.
 Regular updates will be made as the content is expanded or new courses are added.
