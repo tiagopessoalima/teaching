@@ -1,4 +1,4 @@
-# Current courses
+# Current Courses
 
 1. **Algorithms**
 - Introduction to algorithms
