@@ -2,7 +2,8 @@
 
 This repository compiles all the courses I currently teach or have taught, providing organized access to teaching materials, lecture content, and supplementary resources. It is designed to facilitate the learning process for students and provide a convenient reference for anyone interested in these subjects.
 
-## Courses Included
+## Current courses
+
 **1. Algorithms**
 - Introduction to algorithms
 - Time complexity and Big O notation
@@ -22,6 +23,10 @@ This repository compiles all the courses I currently teach or have taught, provi
 - Supervised and unsupervised learning
 - Neural networks and deep learning
 - AI applications and use cases
+
+## Previous courses
+**1. Database System**
+**2. Object-Oriented Programming**
 
 ## How to Use
 Each folder contains structured materials for the respective course.
