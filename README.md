@@ -25,8 +25,8 @@ This repository compiles all the courses I currently teach or have taught, provi
 - AI applications and use cases
 
 ## Previous courses
-**1. Database System**
-**2. Object-Oriented Programming**
+1. **Database System**
+2. **Object-Oriented Programming**
 
 ## How to Use
 Each folder contains structured materials for the respective course.
