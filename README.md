@@ -1,7 +1,5 @@
 # Teaching Repository
 
-This repository compiles all the courses I currently teach or have taught, providing organized access to teaching materials, lecture content, and supplementary resources. It is designed to facilitate the learning process for students and provide a convenient reference for anyone interested in these subjects.
-
 ## Current courses
 
 **1. Algorithms**
